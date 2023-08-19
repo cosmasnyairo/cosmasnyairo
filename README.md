@@ -37,10 +37,10 @@ metadata:
 
 
 <div style="display: flex;">
-  <div style="flex: 30%; padding: 0 10px;">
+  <div style="flex: 10%; padding: 0 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasnyairo&hide=javascript,html,php,jupyter+notebook,css,dart,c,makefile&hide_title=true&hide_border=true&langs_count=6" alt="My Stats" />
   </div>
-  <div style="flex: 70%; padding: 0 10px;">
+  <div style="flex: 90%; padding: 0 10px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmasnyairo&theme=github-dark-dimmed&custom_title=Cosmas%20Activity%20Graph&hide_border=true&height=505" alt="Stats" />
   </div>
 </div>
