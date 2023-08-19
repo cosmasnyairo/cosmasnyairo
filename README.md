@@ -34,5 +34,10 @@ metadata:
 📈 **My stats**
 
 
-![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasnyairo&hide=javascript,html,php,jupyter+notebook,css,dart,c,makefile&hide_title=true&hide_border=true&langs_count=6&bg_color=738678)
+![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasnyairo&hide=javascript,html,php,jupyter+notebook,css,dart,c,makefile&hide_title=true&hide_border=true&langs_count=6)
   
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer"/>
+</p>
