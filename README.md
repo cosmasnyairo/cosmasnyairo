@@ -26,10 +26,12 @@ metadata:
 ```
 
 🔗 **Connect with me**
-
-<p align="left">
-<a href="https://dev.to/cosmasnyairo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cosmasnyairo" height="30" width="40" /></a>
-
+```yaml
+- name: dev.to
+  link: https://dev.to/cosmasnyairo
+- name: medium
+  link: https://cosmasnyairo.medium.com/
+```
 
 📈 **My stats**
 
